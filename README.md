@@ -23,3 +23,4 @@ You can customize and extend the tests by editing the steps in the Selenium  ext
 **Author**
 Veronika Ondrušová
 Linkedln profile: https://www.linkedin.com/in/veronika-obrtelová/
+![Uploading edalnice.png…]()
