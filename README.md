@@ -23,4 +23,5 @@ You can customize and extend the tests by editing the steps in the Selenium  ext
 **Author**
 Veronika Ondrušová
 Linkedln profile: https://www.linkedin.com/in/veronika-obrtelová/
-![Uploading edalnice.png…]()
+<img width="1732" height="1060" alt="edalnice" src="https://github.com/user-attachments/assets/c14c45e8-47dd-458c-a05c-60813cf17994" />
+
